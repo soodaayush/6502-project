@@ -2,6 +2,14 @@
 
 A collection of projects surrounding hardware, inspired by Ben Eater. 
 
+## Inspiration
+
+I always wanted to learn and understand how hardware really works at the lowest level. When I stumbled upon Ben Eater's videos on YouTube, his explanation along with his builds allowed me to properly understand hardware concepts.
+
+## Challenges
+
+Making sure the wiring are in their respective spots and making clean builds.
+
 ## Clock Module
 
 ![clock-module](https://github.com/user-attachments/assets/a35d2239-feb1-47df-8425-1d51c7536b66)
