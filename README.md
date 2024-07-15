@@ -78,4 +78,4 @@ alt="Clock Module Video" border="10" /></a>
 
 ### Description
 
-This produces a pattern in the light bulb through the VIA (Versatile Interface Adapter). Again, time for this computer is provided by the clock above. The different light patterns show if the VIA is reading from or writing to the other chips. 
+This produces a pattern in the light bulb through the VIA (Versatile Interface Adapter). Again, time for this computer is provided by the clock above. The different light patterns show if the VIA is reading from 6502 data bus. 
